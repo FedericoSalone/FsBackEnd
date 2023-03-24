@@ -16,6 +16,7 @@ com\portfolio\fs\Security\Entity\Usuario.class
 com\portfolio\fs\Security\Dto\JwtDto.class
 com\portfolio\fs\Security\Entity\Rol.class
 com\portfolio\fs\FsApplication.class
+com\portfolio\fs\WebConfig.class
 com\portfolio\fs\Repository\IPersonaRepository.class
 com\portfolio\fs\Security\Enums\RolNombre.class
 com\portfolio\fs\Dto\dtoEducacion.class
